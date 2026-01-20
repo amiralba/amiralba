@@ -29,7 +29,7 @@ I'm a passionate developer and AI/ML enthusiast with a strong focus on computer 
 
 - **[signature-verification](https://github.com/amiralba/signature-verification)** - A forensic-grade signature verification system using Siamese ResNet, Grad-CAM explanations, and FastAPI for real-time verification.
 
-- **[Face-Access-control](https://github.com/amiralba/Face-Access-control)** ⭐ - AI-powered real-time entry system using InsightFace for face detection & recognition, with emotion analysis and voice feedback.
+- **[Face-Access-control](https://github.com/amiralba/Face-Access-control)** - AI-powered real-time entry system using InsightFace for face detection & recognition, with emotion analysis and voice feedback.
 
 - **[Face-tools](https://github.com/amiralba/Face-tools)** - Practical suite of face-related computer vision apps powered by InsightFace and YOLO.
 
